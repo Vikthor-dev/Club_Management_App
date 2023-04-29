@@ -1,0 +1,19 @@
+h3{
+    color: whitesmoke;
+    margin-top: 20px;
+}
+#img-input {
+  border-style: solid;
+  border-color: black;
+  width: 300px;
+}
+button{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+#main-col{
+    padding: 120px;
+    margin-top:30px;
+    background-color: rgb(23, 23, 23);
+    border-radius: 20%;
+}
